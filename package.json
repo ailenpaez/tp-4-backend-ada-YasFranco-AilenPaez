@@ -1,0 +1,17 @@
+{
+  "name": "lunes-tp",
+  "version": "1.0.0",
+  "description": "- Comenzamos importando las dependencias que estaremos utilizando, estas son: readFileSync y writeFileSync del paquete fileSystem que viene con node y el paquete uuid para generar los id de los usuarios de forma dinamica.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

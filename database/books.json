@@ -1,0 +1,158 @@
+[
+  {
+    "id": "kljm34-2kmj3rkl2-23oikrj2-23jrk",
+    "title": "El gran Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "tags": ["Realismo", "Drama", "Historia"]
+  },
+  {
+    "title": "Cien Años De Soledad",
+    "id": "295377e0-caeb-45ec-800a-ace13d4bb7ab",
+    "author": "Gabriel García Márquez",
+    "tags": ["fantasía", "novela", "drama"]
+  },
+  {
+    "title": "1984",
+    "id": "8c26422d-8f0e-40c5-8763-a76d3ed17109",
+    "author": "George Orwell",
+    "tags": ["política", "historia", "distopía"]
+  },
+  {
+    "title": "Rebelión En La Granja",
+    "id": "1710393e-1f0f-4ff5-b6ee-a317c06fbab4",
+    "author": "George Orwell",
+    "tags": ["política", "novela", "drama"]
+  },
+  {
+    "title": "Don Quijote De La Mancha",
+    "id": "411b0fd4-b839-4e31-b058-eab35bdbc04f",
+    "author": "Miguel De Cervantes",
+    "tags": ["novela", "sátira", "clásicos"]
+  },
+  {
+    "title": "Matar a un Ruiseñor",
+    "id": "1541027d-9f37-4b9a-8767-7fd9a7d65d80",
+    "author": "Harper Lee",
+    "tags": ["drama", "justicia", "clásicos"]
+  },
+  {
+    "title": "Orgullo y Prejuicio",
+    "id": "8f952e93-7539-4992-b3bc-485e3e512f03",
+    "author": "Jane Austen",
+    "tags": ["romance", "novela", "sociedad"]
+  },
+  {
+    "title": "Moby Dick",
+    "id": "108bb23a-7e15-42fb-97d3-e5c70237189b",
+    "author": "Herman Melville",
+    "tags": ["aventura", "clásicos", "obsesión"]
+  },
+  {
+    "title": "Rayuela",
+    "id": "ac84c07d-2ae7-4e88-954f-a2e1a24da6eb",
+    "author": "Julio Cortázar",
+    "tags": ["experimental", "juego", "existencialismo"]
+  },
+  {
+    "title": "La Casa De Los Espíritus",
+    "id": "bb5b209e-6e9f-4f54-b547-424892a54c8b",
+    "author": "Isabel Allende",
+    "tags": ["familia", "fantasía", "política"]
+  },
+  {
+    "title": "El Fantasma de Canterville",
+    "id": "d52d88c1-9d79-4ba7-967f-a6f5814cc360",
+    "author": "Oscar Wilde",
+    "tags": ["comedia", "fantasía", "sátira"]
+  },
+  {
+    "title": "El Alquimista",
+    "id": "b67796bd-49fa-48af-aa5f-8d8454f5be03",
+    "author": "Paulo Cohelo",
+    "tags": ["espiritualidad", "aventura", "inspiración"]
+  },
+  {
+    "title": "El Diario de Anna Frank",
+    "id": "4540c1bf-3be4-4e86-80ee-6e1f02f50e38",
+    "author": "Anne Frank",
+    "tags": ["historia", "biografía", "drama"]
+  },
+  {
+    "title": "El Código Da Vinci",
+    "id": "a9f936d3-c854-4fa8-b15e-f6735b0c0434",
+    "author": "Dan Brown",
+    "tags": ["misterio", "conspiración", "arte"]
+  },
+  {
+    "title": "La Chica Del Tren",
+    "id": "e70f6ca3-1c75-4fae-bd51-5804b91a0886",
+    "author": "Paula Hawkins",
+    "tags": ["suspenso", "misterio", "obsesión"]
+  },
+  {
+    "title": "Carrie",
+    "id": "20821bde-6b4a-4c71-8026-f4693d126714",
+    "author": "Stephen King",
+    "tags": ["terror", "venganza", "drama"]
+  },
+  {
+    "title": "Psicosis",
+    "id": "701bf3fd-7e2e-46f9-90a4-ec0c384d4139",
+    "author": "Robert Bloch",
+    "tags": ["crimen", "misterio", "fantasía"]
+  },
+  {
+    "title": "El Retrato De Dorian Gray",
+    "id": "76a05064-ab29-4207-8e29-7a39ab432a49",
+    "author": "Oscar Wilde",
+    "tags": ["misterio", "terror", "drama"]
+  },
+  {
+    "title": "El Resplandor",
+    "id": "7a6143f5-f927-4e0b-af27-1195f626b4c1",
+    "author": "Stephen King",
+    "tags": ["terror", "suspenso", "drama"]
+  },
+  {
+    "title": "Harry Potter y la Piedra Filosofal",
+    "id": "ae449a7d-daf5-4d9e-987f-40b2d7d2ecf0",
+    "author": "J K Rowling",
+    "tags": ["fantasía", "aventura", "magia"]
+  },
+  {
+    "title": "Toda Mafalda",
+    "id": "1325541c-2c8f-4ccf-bbfa-40ae80488a0c",
+    "author": "Quino",
+    "tags": ["crítica", "política", "cómic"]
+  },
+  {
+    "title": "V de Vendetta",
+    "id": "62297ff3-a952-4e14-8c7a-c8c654778fe0",
+    "author": "Alan Moore",
+    "tags": ["distopía", "drama", "cómic"]
+  },
+  {
+    "title": "El Eternauta",
+    "id": "fc1789bf-cfc3-4e19-bbca-e9f12cfb32ba",
+    "author": "Germán Oesterheld",
+    "tags": ["cómic", "distopía", "misterio"]
+  },
+  {
+    "title": "Cuentos de Amor, de Locura y de Muerte",
+    "id": "5e317a5d-20dc-495b-b2de-a517db8d7196",
+    "author": "Horacio Quiroga",
+    "tags": ["cuentos", "suspenso", "terror"]
+  },
+  {
+    "title": "Mi Planta De Naranja Lima",
+    "id": "bbb86837-d0b7-46c7-b320-574745f5934e",
+    "author": "Mauro De Vasconcelos",
+    "tags": ["novela", "drama", "amistad"]
+  },
+  {
+    "title": "El Cuervo",
+    "id": "3a0ec1b3-672d-4567-8525-fd6248466724",
+    "author": "Edgar Allan Poe",
+    "tags": ["poesía", "misterio", "clásicos"]
+  }
+]
